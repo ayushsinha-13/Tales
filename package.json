@@ -1,7 +1,7 @@
 {
-  "name": "blog",
+  "name": "Tales",
   "version": "1.0.0",
-  "description": "",
+  "description": "This project is a comprehensive blogging platform built using Node.js, Express.js, and MongoDB. The blog allows users to create, edit, and publish articles, as well as interact with other users through comments and likes.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
