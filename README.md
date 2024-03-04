@@ -26,13 +26,13 @@ Welcome to the Blog Website project! This project is built using Node.js and EJS
 1. Clone the repository:
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/ayushsinha-13/Tales.git
     ```
 
 2. Install dependencies:
 
     ```bash
-    cd <project-directory>
+    cd Tales
     npm install
     ```
 
@@ -41,12 +41,10 @@ Welcome to the Blog Website project! This project is built using Node.js and EJS
     Create a `.env` file in the root directory and add the following variables:
 
     ```plaintext
-    PORT=3000
     MONGODB_URI=<your-mongodb-uri>
-    SESSION_SECRET=<your-session-secret>
     ```
 
-    Replace `<your-mongodb-uri>` with your MongoDB connection URI, and `<your-session-secret>` with a secret key for session management.
+    Replace `<your-mongodb-uri>` with your MongoDB connection URI.
 
 4. Start the server:
 
